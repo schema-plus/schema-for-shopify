@@ -8,6 +8,9 @@ Schema Plus app increases the visibility of your site for the search engines. Ou
 # [FAQ schema and Breadcrumbs schema](https://apps.shopify.com/schema-plus)
 SchemaPlus provides the most recent FAQ schema and Breadcrumbs schema from Google. You can easily set up FAQ schema on either your store pages or blog pages.
 
+![Example for Schema on Shopify](https://github.com/schema-plus/schemaplus-for-shopify/blob/master/SchemaPlus_RichSnippets.png "SchemaPlus App for Shopify")
+
+
 # [Review score in Google Results](https://apps.shopify.com/schema-plus)
 SchemaPlus is the *only schema app* that reports the content of your reviews to Google. When Google knows about your review text, it can understand your products better.
 
