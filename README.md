@@ -1,10 +1,13 @@
-![Example for Schema on Shopify](https://github.com/schema-plus/schemaplus-for-shopify/blob/master/screen.png "SchemaPlus App for Shopify")
 
-# [About Schema Plus for SEO](https://apps.shopify.com/schema-plus)
+# [Schema Plus Shopify App for increasing SEO](https://apps.shopify.com/schema-plus)
 Help Search Engines understand your content better
 Developed by former Google software engineers, Schema Plus app is the most advanced automatic schema installation service in the world, with more features and more web elements indexed than other Schema services.
 
 Schema Plus app increases the visibility of your site for the search engines. Our team understands how search engines see your store, and provide the semantic information that is needed for better ranking.
+
+
+![Example for Schema on Shopify](https://github.com/schema-plus/schemaplus-for-shopify/blob/master/screen.png "SchemaPlus App for Shopify")
+
 
 # [FAQ schema and Breadcrumbs schema](https://apps.shopify.com/schema-plus)
 SchemaPlus provides the most recent FAQ schema and Breadcrumbs schema from Google. You can easily set up FAQ schema on either your store pages or blog pages.
