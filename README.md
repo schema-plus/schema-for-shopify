@@ -46,8 +46,8 @@ Schema Plus indexes more types of pages than any other Schema installation app. 
 SchemaPlus will install itself automatically when you sign up for a free trial. We do not modify your template. This means that if you remove this application, we will remove any traces of it. Equally, you won't need to re-install this application every time you update your template.
 
 # [Integrates with all major Shopify Review Apps](https://apps.shopify.com/schema-plus)
-* Judge.me Reviews App, 
-* Stampted.io Reviews, 
-* Yotpo Reviews App
+* [Judge.me Reviews App](https://apps.shopify.com/judgeme)
+* [Stampted.io Reviews](https://apps.shopify.com/product-reviews-addon)
+* [Yotpo Reviews App](https://apps.shopify.com/yotpo-social-reviews)
 
 # [Install Now for a 3-day FREE TRIAL](https://apps.shopify.com/schema-plus)
