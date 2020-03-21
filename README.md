@@ -1,5 +1,6 @@
 
 # [Schema Plus Shopify App for increasing SEO](https://apps.shopify.com/schema-plus)
+[Install Now for a 3-day FREE TRIAL](https://apps.shopify.com/schema-plus)
 Help Search Engines understand your content better
 Developed by former Google software engineers, Schema Plus app is the most advanced automatic schema installation service in the world, with more features and more web elements indexed than other Schema services.
 
