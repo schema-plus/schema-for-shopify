@@ -24,6 +24,8 @@ Schema is advanced markup code added to your website. Websites with Schema are e
 Studies show that adding Schema to your website can increase your organic click throughs.
 It also adds rich content to your website, which means elements like your reviews or product descriptions can also show up in search results.
 
+![Example for Schema on Shopify](https://github.com/schema-plus/schemaplus-for-shopify/raw/master/431c9a33cdb89edf57bf8a60d26d58ab.png "SchemaPlus App for Shopify")
+
 # Which elements does Schema Plus for Shopify index?
 All products, descriptions, photos and product variants
 * Breadcrumbs
