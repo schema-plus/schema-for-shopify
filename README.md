@@ -26,7 +26,7 @@ It also adds rich content to your website, which means elements like your review
 
 ![Example for Schema on Shopify](https://github.com/schema-plus/schemaplus-for-shopify/raw/master/431c9a33cdb89edf57bf8a60d26d58ab.png "SchemaPlus App for Shopify")
 
-# [Which elements does Schema Plus for Shopify index?]
+# [Which elements does Schema Plus for Shopify index?](https://apps.shopify.com/schema-plus)
 All products, descriptions, photos and product variants
 * Breadcrumbs
 * Blog posts
