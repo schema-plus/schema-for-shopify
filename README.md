@@ -1,3 +1,4 @@
+![Example for Schema on Shopify](https://github.com/schema-plus/schemaplus-for-shopify/blob/master/screen.png "SchemaPlus App for Shopify")
 
 # [About Schema Plus for SEO](https://apps.shopify.com/schema-plus)
 Help Search Engines understand your content better
